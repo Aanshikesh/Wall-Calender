@@ -1,6 +1,6 @@
 # 📅 Wall Calendar — Interactive Component
 
-A polished, physical wall-calendar aesthetic built as both a **React component** (`WallCalendar.jsx`) and a **zero-dependency HTML file** (`wall-calendar.html`).
+A polished, physical wall-calendar aesthetic built as both a **React component** (`WallCalendar.jsx`).
 
 ---
 
@@ -22,12 +22,9 @@ A polished, physical wall-calendar aesthetic built as both a **React component**
 
 ## 🚀 How to Run
 
-### Option A — Standalone HTML (no build step)
-Just open `wall-calendar.html` in any modern browser. That's it.
+### React component in a Next.js or Vite project
 
-### Option B — React component in a Next.js or Vite project
-
-1. Copy `WallCalendar.jsx` into your project's `components/` folder.
+1. Copy `App.jsx` into your project's `components/` folder.
 2. Install no extra dependencies (uses only React hooks + browser APIs).
 3. Import and render:
 
@@ -43,15 +40,7 @@ Google Fonts (`Playfair Display`, `Lato`, `DM Mono`) are loaded inline via a `<s
 
 ---
 
-## 🗂 File Structure
 
-```
-├── WallCalendar.jsx        # React component (drop into any project)
-├── wall-calendar.html      # Standalone demo (zero dependencies)
-└── README.md
-```
-
----
 
 ## 🎨 Design Decisions
 
