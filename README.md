@@ -1,6 +1,6 @@
 # 📅 Wall Calendar — Interactive Component
 
-A polished, physical wall-calendar aesthetic built as both a **React component** (`WallCalendar.jsx`).
+A polished, physical wall-calendar aesthetic built as both a **React component** (`App.jsx`).
 
 ---
 
