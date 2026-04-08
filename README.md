@@ -30,7 +30,7 @@ A polished, physical wall-calendar aesthetic built as both a **React component**
 
 ```jsx
 // pages/index.jsx  or  app/page.jsx
-import App from "@/components/WallCalendar";
+import App from "@/components/App";
 export default function Home() {
   return <App />;
 }
